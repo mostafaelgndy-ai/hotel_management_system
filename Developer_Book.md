@@ -2,7 +2,7 @@
 
 # Epics system:
 
-## You have all the tickets to do in the broteam website `` https://broteam.mostafaelgndy-ai.workers.dev/ `` 
+## You have all the tickets to do in the broteam website  https://broteam.mostafaelgndy-ai.workers.dev/  
 
 ## Open your Ticket with your name and click on `` Completed `` when you complete it and `` on progress `` when you still working on it
 
