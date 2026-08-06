@@ -94,11 +94,3 @@ Reviewer mode Can't:
 Edit the actual source code (the review is advisory only).
 Modify the plan file, ticket files, or implementation log.
 Mark the ticket as resolved in external trackers (this is done manually by the user).
-
----
-
-# The docs Folder
-
-> The docs folder is very important. you must read these files before doing any task:
-docs\architecture\architecture-sketch.md
-docs\requirements\Stack.md
