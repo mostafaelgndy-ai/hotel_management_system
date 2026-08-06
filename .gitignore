@@ -7,8 +7,9 @@
 .yarn/install-state.gz
 
 # environment variables
-.env.local
-.env
+# We are Now in development phase so I keep this public for the team
+# .env.local
+# .env
 
 # testing
 /coverage
