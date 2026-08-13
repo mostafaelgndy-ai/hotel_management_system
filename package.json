@@ -10,7 +10,6 @@
     "db:seed": "tsx prisma/seed.ts"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.7.6",
     "@neondatabase/serverless": "^1.1.0",
     "@prisma/client": "^5.15.0",
     "@radix-ui/react-checkbox": "^1.0.4",
